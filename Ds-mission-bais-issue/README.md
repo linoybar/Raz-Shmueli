@@ -1,5 +1,3 @@
-## Lemonade classification model 
-This project is part of lightricks classification model home mission
 
 ## Project structure
 * This project built from 3 file types: py, ipynb, csv
